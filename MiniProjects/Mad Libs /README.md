@@ -1,4 +1,4 @@
-# Ad Libs Game
+# Mad Libs Game
 
 ## Description
 A simple Java console project that generates a funny story based on user input.
