@@ -27,7 +27,7 @@ This repository serves as a personal log of my progress as I learn Java from the
 
 | Project No. | Project Name |
 | ----------- | ------------ |
-| 1           |    [Mad Libs](https://github.com/JaydeepJadeja/JAVA_LEARNING_ROADMAP/tree/main/MiniProjects/madlibs)         |
+| 1           |    [Mad Libs](https://github.com/JaydeepJadeja/JAVA_LEARNING_ROADMAP/tree/main/MiniProjects/Mad%20Libs%20)        |
 
 ## 🚀 End Goal
 
