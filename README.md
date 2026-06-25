@@ -18,7 +18,7 @@ This repository serves as a personal log of my progress as I learn Java from the
 | ------ | ------  |
 | Day 1  |    Introduction To Java   |
 | Day 2  |   Variables,User Inputs    |
-| Day 3  |       |
+| Day 3  |    Completed a madlibs Project   |
 | Day 4  |       |
 | Day 5  |       |
 
